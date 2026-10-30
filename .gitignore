@@ -1,0 +1,4 @@
+# Working copy of the customer database created by the notebook
+customer.db
+.ipynb_checkpoints/
+__pycache__/
