@@ -2,3 +2,5 @@
 customer.db
 .ipynb_checkpoints/
 __pycache__/
+
+/.venv
